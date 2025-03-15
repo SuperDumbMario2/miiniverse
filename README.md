@@ -1,7 +1,7 @@
 # Miiniverse
-A miiverse clone with least features and IP auth. Unrelated to the one that I teased on my server an MVClonapedia Discord. (This is not Minverse or Miniverse)
+A miiverse clone on PHP with least features and IP auth. Unrelated to the one that I teased on my server an MVClonapedia Discord. (This is not Minverse or Miniverse)
 # WARNING
-This is not a very high-quality code. I am still learning PHP and made it just as a side project, please do not tell me this is bad. Also this is fully procedural code so if you're not a fan of procedural code you will not like this code.
+This is not a very high-quality code. I am still learning PHP and made it just as a side project, please do not tell me this is bad as i already know it. Also this is fully procedural code so if you're not a fan of procedural code you will not like this code.
 
 # How to install
 Upload the entrie repo to the root of your server.
