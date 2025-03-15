@@ -6,7 +6,7 @@ This is not a very high-quality code. I am still learning PHP and made it just a
 # How to install
 Upload the entrie repo to the root of your server.
 
-After this create a db and import the "miiniverse.sql" file.
+After this create a db and import the "miniverse.sql" file.
 
 Then, set up the dbconnect.php file to connect to your DB.
 
