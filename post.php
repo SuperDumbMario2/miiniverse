@@ -75,7 +75,7 @@ include "dbconnect.php";
     </h1>
   </header>
 <?php
-$idd = $_GET["id"];
+$idd = mysqli_real_escape_string($conn, $_GET["id"]);
 $sql = "SELECT * FROM posts WHERE pk='$idd'";
 if($posts = mysqli_query($conn, $sql)){
 foreach($posts as $posts2){
